@@ -17,9 +17,9 @@ All these projects will be created using the same tech stacks
 <br/>
 
 ### Tech Stack
-Python
-Flask
-PostgresSql
+* Python
+* Flask
+* PostgresSql
 <br/>
 
 ### Database
